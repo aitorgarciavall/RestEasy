@@ -3,7 +3,7 @@
 **Aplicació web multiplataforma per gestionar fàcilment el teu negoci de restauració**
 
 ## 📌 Descripció del projecte
-GestióRestaurant és una aplicació web dissenyada per simplificar i optimitzar les tasques del dia a dia en negocis com restaurants, bars i cafeteries. Permet gestionar reserves, comandes, inventari, facturació, impressió automàtica de tiquets i molt més, tot des d'un únic lloc i accessible des de qualsevol dispositiu.
+Rest Easy és una aplicació web dissenyada per simplificar i optimitzar les tasques del dia a dia en negocis com restaurants, bars i cafeteries. Permet gestionar reserves, comandes, inventari, facturació, impressió automàtica de tiquets i molt més, tot des d'un únic lloc i accessible des de qualsevol dispositiu.
 
 ## ✨ Funcionalitats principals
 
@@ -19,8 +19,7 @@ GestióRestaurant és una aplicació web dissenyada per simplificar i optimitzar
 
 - **Frontend:** React.js, Tailwind CSS, Axios.
 - **Backend:** Node.js, Express.js.
-- **Base de dades:** MongoDB o PostgreSQL.
-- **Desplegament:** Vercel o AWS.
+- **Base de dades:** MongoDB.
 
 ## ⚙️ Instal·lació i ús
 
