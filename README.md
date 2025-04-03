@@ -43,7 +43,7 @@ npm run dev
 ```
 
 ## 📄 Llicència
-Aquest projecte està disponible sota la llicència MIT.
+Aquest projecte està disponible sota la llicència GNU GENERAL PUBLIC LICENSE.
 
 ---
 
