@@ -1,4 +1,4 @@
-# 🍽️ GestióRestaurant
+# 🍽️ Rest Easy
 
 **Aplicació web multiplataforma per gestionar fàcilment el teu negoci de restauració**
 
